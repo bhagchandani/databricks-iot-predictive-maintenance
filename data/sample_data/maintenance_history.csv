@@ -1,0 +1,347 @@
+work_order_id,equipment_id,maintenance_date,maintenance_type,failure_type,downtime_hours,cost_usd,technician,description,parts_replaced,resolved
+WO-54599102,EQ-0042,2025-01-29T04:22:35.000311,INSPECTION,,37.0,19221.18,Luke Craig,Product magazine kind event sense box. Book question or money final determine.,False,True
+WO-66416052,EQ-0075,2025-04-03T17:57:27.783488,PREVENTIVE,,1.1,13406.39,Lisa Collier,Join black job hundred. How financial fund four. Baby plan most create.,False,False
+WO-49058147,EQ-0067,2025-08-29T09:05:33.093942,CORRECTIVE,OVERHEATING,6.4,23771.62,Anthony Decker,"Past medical leg never. Last special prepare.
+Little character artist billion tonight gas research mean. Always remain yard model. City health executive impact full our smile positive.",True,False
+WO-62914865,EQ-0095,2026-05-02T01:08:32.442764,CORRECTIVE,,31.4,13138.68,Meagan Calderon,Position interest gun guy. Week game she court. Choice fast small medical.,True,False
+WO-77468862,EQ-0009,2025-07-15T20:16:14.411329,EMERGENCY,,11.5,23172.5,Rebecca Taylor,"Political them never. Represent middle by base.
+Last message store begin treat. This us increase how hear history bank.
+Five between research. Social case expert stop receive catch.",False,True
+WO-09539621,EQ-0092,2024-12-23T22:23:32.444838,CORRECTIVE,OVERHEATING,21.6,7318.5,Heather Ashley,Skill medical after them analysis hit health. Ground attack drop. Billion old series card good full poor store.,False,True
+WO-56676527,EQ-0070,2024-08-24T02:11:15.947532,PREVENTIVE,,38.2,11411.99,Holly Salinas,"Risk bad own state. Family bill foreign fast knowledge response coach.
+Language risk treatment past itself police. Avoid point guy song. Well central parent sit.
+Attack sing hand him.",False,True
+WO-47394731,EQ-0051,2024-08-19T04:28:51.291593,CORRECTIVE,VIBRATION_ANOMALY,15.4,1263.75,Benjamin Thompson,"Specific whose worry property. Nearly face feel church. Soldier meeting building cut.
+So ago network hard sound. Candidate this assume huge response long improve.",False,True
+WO-84143842,EQ-0002,2026-04-17T06:46:16.425508,EMERGENCY,VIBRATION_ANOMALY,15.8,23611.49,Lisa Davis,"Walk child probably result painting successful nor stay. Ball we side.
+Short indicate police marriage phone. Politics few each southern image.",True,True
+WO-73210469,EQ-0034,2024-08-22T15:56:49.078357,PREVENTIVE,POWER_SURGE,1.8,14107.45,Victor Barrera,"Return couple city you level these market. War measure whom Democrat. Any example our successful pull experience.
+Issue think road shake.",True,True
+WO-23986800,EQ-0067,2026-04-11T01:08:50.089978,EMERGENCY,,44.7,18364.42,Micheal Brock,Chance throw cause use five hotel pattern. Order medical meeting majority none. Staff happy purpose woman on someone rise.,False,False
+WO-02838578,EQ-0062,2025-05-04T15:54:44.238912,CORRECTIVE,POWER_SURGE,23.6,9175.61,Tyler Stevens,"National put test race sound enough. Court east newspaper different win father eye. Real major look night various.
+Business quality here woman stand. Fact explain research get.",False,True
+WO-26773454,EQ-0048,2026-04-29T17:25:54.208754,INSPECTION,BEARING_FAILURE,15.8,21320.9,Susan Davis,"Movement rich view tree company. Value already structure small. View while unit theory.
+Nothing blue work expect writer.",True,True
+WO-30463745,EQ-0096,2025-01-16T13:10:50.944068,PREVENTIVE,BEARING_FAILURE,18.6,10694.27,Nathan Smith,Artist brother fill if maybe. Real police wait happen determine. Long lawyer writer health.,False,True
+WO-70728679,EQ-0083,2026-03-12T18:50:53.930466,INSPECTION,,43.5,2719.96,Joel Roman,"Effort able design authority interest red.
+Various attorney value all. Conference career political role white hear. Large true help bag who themselves.",True,False
+WO-63375243,EQ-0090,2025-03-30T23:33:38.528994,PREVENTIVE,POWER_SURGE,16.3,18717.3,Molly Rodriguez,She this administration deal beyond almost our reflect. Each analysis keep. Describe tell argue mean eye staff rule.,True,True
+WO-62462873,EQ-0063,2025-10-15T19:17:47.168067,CORRECTIVE,OVERHEATING,12.6,1898.27,Elizabeth Zimmerman,None whose newspaper care. Effort form bad last he. Right couple environmental purpose owner them could.,False,False
+WO-53556093,EQ-0080,2025-12-02T12:27:54.628917,PREVENTIVE,BEARING_FAILURE,37.3,5765.28,Alexis Tran,"Result far cultural discover now early nearly want. Either start whom politics make collection. College result major true my politics. Model stuff avoid stand.
+Include successful discuss.",True,True
+WO-86211823,EQ-0054,2024-12-20T14:02:14.923214,PREVENTIVE,POWER_SURGE,7.0,1745.7,Joseph Ochoa,"Bad where learn during recently feel. President teach service behavior.
+Need argue act commercial matter its. Not teach believe month amount deep. Little another avoid understand tonight nor allow.",True,True
+WO-63159996,EQ-0048,2024-07-03T09:19:54.254212,CORRECTIVE,,7.3,2864.26,Erin Walters,"Direction need heart control one herself sign. Something require bank child Republican. Science first blood accept.
+Growth especially car cost large never. Billion bed never others six tell.",True,True
+WO-82622444,EQ-0058,2024-11-18T11:35:49.262067,EMERGENCY,,21.0,7115.4,Arthur Hamilton MD,"Guess want result many. Crime blood fight we forward per sound forget. Issue statement prepare organization feel owner.
+Fire who why fact reason make office. For exactly skill half usually.",False,True
+WO-34266179,EQ-0019,2025-08-30T19:17:42.405272,EMERGENCY,VIBRATION_ANOMALY,3.4,10902.69,James Hunter,Already why reduce speech order trial body. Price great positive and worker. Whom former someone black better develop.,False,True
+WO-17751401,EQ-0074,2025-02-03T14:11:07.019305,PREVENTIVE,OVERHEATING,18.8,22922.25,Greg Rodriguez,Might necessary former interview left. Picture control price how scene third.,False,True
+WO-91251341,EQ-0017,2026-03-27T05:51:13.277354,PREVENTIVE,OVERHEATING,43.6,18826.93,Michael Dixon,Case himself control player really population yourself never. Eye cost success people tend weight machine. Spring white measure manager range.,True,True
+WO-83613407,EQ-0062,2025-11-01T08:46:05.317114,PREVENTIVE,VIBRATION_ANOMALY,33.5,17692.07,Scott Miller,"Decide scene ready technology particular. Coach cause deal deal arrive go.
+Much food region eye environment teach world quickly. Career seek in arrive.",True,True
+WO-71168457,EQ-0073,2025-03-23T17:56:49.579338,INSPECTION,MECHANICAL_WEAR,13.0,8384.92,Erin Smith,"Play recently sure somebody huge why station. Environmental stock front official not magazine gas.
+Between six least.
+Kid a when dark. Think few themselves theory.",False,False
+WO-87005162,EQ-0096,2025-08-01T20:03:20.300853,PREVENTIVE,PRESSURE_DROP,13.0,24903.3,Darryl Davis,Finish thing case similar. Political quality attention none.,True,True
+WO-64037613,EQ-0034,2025-06-01T08:39:24.209849,PREVENTIVE,MECHANICAL_WEAR,17.7,2580.56,Mr. Joseph Levine DVM,"Hit stuff inside national. Several west side admit. Add democratic two we.
+Expert Republican short interest I policy Mrs. Everyone finally memory data. Movie hospital plant strong.",False,True
+WO-20275884,EQ-0054,2024-06-03T09:59:16.327901,INSPECTION,VIBRATION_ANOMALY,1.0,19783.06,Cameron Norman,"Sign ahead southern evening. Enjoy window physical many.
+Area teacher cold church significant thus. Direction meeting analysis television. Animal hair turn condition whether.",True,True
+WO-95180238,EQ-0094,2026-01-18T12:56:04.250889,INSPECTION,VIBRATION_ANOMALY,29.1,15120.44,Dr. Andrea Marshall,"Force network account customer nor. Science drug happy will young.
+Set early according improve do get style. Week ability price.
+Day work information which. Republican behavior TV today.",True,True
+WO-29121277,EQ-0004,2026-04-14T09:53:58.257229,PREVENTIVE,,12.7,15877.94,Bryan Howard,"Final enter build citizen rather step recent. Democrat task chance.
+How any federal star community weight. New nearly behind big soldier building article.",False,True
+WO-72151070,EQ-0045,2024-07-11T06:14:40.041830,PREVENTIVE,PRESSURE_DROP,1.4,2267.94,Kenneth Underwood,Ahead raise common Democrat cost evidence third. Pass pay positive. Include nearly article evidence case current this.,False,True
+WO-07859321,EQ-0056,2025-12-14T20:54:40.019553,EMERGENCY,VIBRATION_ANOMALY,0.8,1701.08,David Ferguson,"Offer work home very yard. Compare or south recently.
+Region goal nothing. None could write think. My compare also argue own after long. Truth cut candidate response try such.",True,True
+WO-52895392,EQ-0005,2025-05-16T01:18:30.765759,PREVENTIVE,,20.1,21306.74,Nicholas Phillips,"We we hot. Allow own TV whose determine not view.
+Seat draw word collection those become. Land enter economic attack either blue.
+History run why.",False,False
+WO-15997062,EQ-0050,2025-06-28T18:30:14.725628,CORRECTIVE,,46.5,20338.35,Jessica Brown,Window important never understand music. Father benefit hotel near make. Guess into far.,False,True
+WO-80686879,EQ-0047,2025-07-29T22:45:09.303988,INSPECTION,,47.7,14014.12,Karen Miller,"Number might number work challenge we last.
+Speak call interest write itself. Challenge organization floor road southern beautiful news need.",True,True
+WO-14856467,EQ-0051,2024-08-10T07:53:26.265860,INSPECTION,,21.6,1982.71,Kara Jackson,"Peace race I how. Real any little environmental head full. Financial successful teach range win.
+Feel season similar fly. Painting become kid tree imagine machine.",True,True
+WO-57972798,EQ-0090,2024-06-16T11:46:15.186632,INSPECTION,MECHANICAL_WEAR,4.3,24699.64,Christopher Kline,"Agree anyone take sister Democrat. Positive question especially important after.
+Treatment positive over across education source figure.",True,True
+WO-17154544,EQ-0086,2024-12-29T04:41:18.014261,PREVENTIVE,PRESSURE_DROP,17.3,17190.97,Tiffany Curtis,"Military drive arm tax. Identify floor cause agent market fast trade identify.
+Remain occur couple risk develop movement size trade.",False,True
+WO-09991738,EQ-0072,2024-08-19T04:50:23.587322,PREVENTIVE,VIBRATION_ANOMALY,29.1,8052.75,Michael Moreno,"That character yeah. Important notice trade leader first resource. Maintain piece computer play.
+Event seven collection share majority shake because.",True,True
+WO-56257532,EQ-0003,2025-08-03T19:13:22.160182,INSPECTION,BEARING_FAILURE,37.4,6789.71,Tamara Powell,"Road capital safe operation college. Represent society heart policy side perhaps.
+Product president after. Indicate herself natural listen. Day rate act inside. Production establish paper case.",False,True
+WO-30011972,EQ-0062,2025-05-11T06:43:16.293655,INSPECTION,MECHANICAL_WEAR,31.9,22013.31,Penny Jones,"Popular lead with enough anyone. Them system growth quality.
+Believe serve animal system. Forget thus western environmental. Head garden box hundred.",True,True
+WO-96590277,EQ-0089,2025-04-10T05:36:41.924834,CORRECTIVE,OVERHEATING,33.8,3480.17,Jason Williams,"Actually than modern season rich difference. Mind read peace item risk loss.
+Stuff next write approach. Measure light many close. Fly former everything medical nearly her stage.",False,False
+WO-19948837,EQ-0061,2024-05-25T06:55:37.333090,PREVENTIVE,,15.1,9705.95,Heidi Brown,"Forward should outside respond guy laugh best. Able great plant son natural.
+Animal clearly cell response. Blood particularly could us hotel lead. Response blue increase unit study.",False,True
+WO-69346547,EQ-0038,2026-02-28T00:04:04.872026,EMERGENCY,PRESSURE_DROP,13.9,19146.46,Brenda Morrison,Successful natural finish say network. Cut person fact generation public. Mean reason follow break.,True,True
+WO-38057198,EQ-0088,2025-12-19T02:55:44.862684,EMERGENCY,,32.1,6084.29,Natalie Hoffman,Six sometimes explain professor unit hold what. Whole approach season data than team.,True,True
+WO-40572025,EQ-0031,2025-07-25T18:06:53.700025,INSPECTION,VIBRATION_ANOMALY,45.2,17229.8,Patricia Garrett,"So nearly authority remain moment whatever minute. City myself idea glass third professional former.
+Wear peace little no sell. Boy generation drive.",False,False
+WO-61207501,EQ-0092,2024-10-22T08:04:26.307599,CORRECTIVE,PRESSURE_DROP,36.0,8453.06,Christopher King,Start treat imagine later identify first hope. Movement political peace series.,True,True
+WO-08821009,EQ-0039,2026-04-24T12:28:57.039019,EMERGENCY,,0.7,16683.46,Kimberly Arroyo,"Security tough gas include position. Central contain pattern education boy provide note.
+Leave near fact attack better rise maintain.",False,True
+WO-52577754,EQ-0098,2025-04-08T17:52:10.033678,EMERGENCY,OVERHEATING,42.4,19991.17,Mr. Matthew Miller,"Through cultural safe phone. Throughout support place spend.
+Shoulder defense already end thus music. Hand development sign run. Card may bed hair action. Summer southern pass coach method.",True,True
+WO-84498926,EQ-0072,2025-10-21T05:31:04.289483,INSPECTION,MECHANICAL_WEAR,46.0,18922.63,Holly Valdez,Edge win development image stage generation society. According think key discover method exactly change church.,False,False
+WO-41379772,EQ-0086,2026-02-25T21:32:58.097355,INSPECTION,VIBRATION_ANOMALY,41.1,12015.52,Jason Thomas,Perhaps member cold rate. Others attention her car admit mission training. Step painting concern top outside there. Me brother lot candidate owner still to.,True,False
+WO-09818063,EQ-0068,2025-11-19T09:11:26.888563,PREVENTIVE,VIBRATION_ANOMALY,41.2,9089.97,Emily Cox,"Prepare effect talk interest hand every. Sense including six lot have never.
+Officer similar huge catch tell. Security land record class.",True,False
+WO-11435190,EQ-0016,2025-08-06T15:09:59.881644,INSPECTION,,26.1,11435.99,Tara Morales,"Represent our watch star policy. Action sure us million crime six. Middle discuss college already dream a church.
+Good house only military say attention. Near risk next on.",False,False
+WO-76973577,EQ-0059,2025-07-19T02:42:54.720968,INSPECTION,PRESSURE_DROP,36.3,17455.77,Shannon Olson,"Him small detail red. Include good movie red enjoy expert.
+Away use live government thus especially. Material current save their deal. Strong student green single build.",True,True
+WO-67808562,EQ-0077,2024-07-03T17:15:05.092486,CORRECTIVE,OVERHEATING,18.6,6701.4,Bryan Holmes,"Activity decision ok. Gun technology cost enjoy especially when. Hand material decision red head take.
+Conference capital office direction between establish dog. Task cultural son school list act.",False,True
+WO-93998245,EQ-0015,2025-02-05T15:06:05.799342,INSPECTION,POWER_SURGE,24.1,23244.56,Jordan Hampton,"High expert place certain. Political up instead partner. Support author class direction first fact.
+Popular even know television guy only whole including. Take by doctor edge.",True,True
+WO-92164334,EQ-0054,2024-08-09T01:58:28.417225,INSPECTION,BEARING_FAILURE,1.7,9681.81,Cameron Rose,"Along ground trip. Level that various nature career way much.
+Lead see theory itself policy move training loss. Source kind hand employee field. Model serve carry. Light across two water local.",False,True
+WO-32663416,EQ-0094,2025-04-09T11:05:26.417847,INSPECTION,MECHANICAL_WEAR,14.9,7298.08,Kellie Marsh,Expect sea speak include table. Carry book lay laugh. Man fly charge wide against win example by. Road do character management game find.,False,False
+WO-03718376,EQ-0062,2024-11-21T17:04:50.027766,PREVENTIVE,,17.4,11531.89,Emily Morris,Seat near business. Police cup thought tell design both plan. Address some once how during why. Situation little other he become citizen before peace.,False,True
+WO-39285574,EQ-0018,2025-10-16T08:05:00.095130,EMERGENCY,MECHANICAL_WEAR,1.4,2596.02,Linda Valencia,"Most last standard must. A point here control affect task simply.
+Return probably much hold model marriage. Child executive important focus benefit probably analysis.",False,True
+WO-03717058,EQ-0033,2025-10-31T12:52:08.587814,EMERGENCY,,40.0,15712.3,Stephanie Short,"Entire American audience fight war whether best rise. History cover prevent now way next newspaper.
+Group learn professor third coach Congress husband. Price move outside value total nearly.",False,False
+WO-40433504,EQ-0042,2026-05-20T19:58:27.049484,CORRECTIVE,MECHANICAL_WEAR,10.8,6829.25,Kayla Duncan,Behind leave choose enter. Economic eight feel now notice design baby foot. Common stay ready office traditional organization feel.,False,True
+WO-58925832,EQ-0046,2025-06-12T05:11:19.973021,EMERGENCY,MECHANICAL_WEAR,32.3,12098.29,Nicholas Long,Offer bed it skill challenge from live seat. Human be maybe similar candidate care nice. House number night young modern drug entire.,False,True
+WO-11039240,EQ-0031,2025-11-08T07:25:54.281727,EMERGENCY,OVERHEATING,0.7,22664.71,Robert Torres,"Forward science deep. Model else low role center recognize adult. Town money eight art customer recent even let.
+Home even system process.
+Fall third hit. Meet report tough machine others because.",False,True
+WO-84046084,EQ-0073,2026-05-22T17:14:51.386382,EMERGENCY,BEARING_FAILURE,33.1,4433.44,Glenn Long,"Role minute question their. Individual of interview fine painting.
+Capital present ok range dark catch read. Travel involve training show prevent north citizen. Newspaper we brother fish.",False,True
+WO-22099499,EQ-0068,2024-10-09T10:42:48.142487,CORRECTIVE,POWER_SURGE,16.0,12933.99,Linda Hall,"Bag sister care suffer light power.
+Man case cover allow share address. Wear development provide dark daughter.
+Term majority foot leader east if. Part station result.",False,True
+WO-47644726,EQ-0092,2024-06-30T04:10:32.951630,EMERGENCY,OVERHEATING,35.4,16305.29,Thomas Vaughn,"Stop later reveal both single visit receive. Hotel food agent law.
+Bed food possible represent clearly run before. Plant be religious risk window partner civil.",False,False
+WO-78097339,EQ-0003,2025-05-23T16:07:12.066117,CORRECTIVE,PRESSURE_DROP,39.0,13737.5,Jordan Ramos,According think everything pick star debate continue area. Already take project study fear turn. Board year claim. Particularly reality organization skin concern.,True,False
+WO-94695489,EQ-0056,2024-07-28T04:56:07.759037,EMERGENCY,,8.7,22659.48,Heather Anderson DDS,"Marriage space this discussion fact cover brother let. Scene debate past increase. Free night point.
+Real effort attack feel nearly.
+Rate game right pattern.
+Create street two look.",False,True
+WO-24056829,EQ-0089,2024-07-12T12:46:00.929231,EMERGENCY,,46.1,15277.35,Chelsea Wilson,"Report even beautiful theory he stop. Democratic few born size sing.
+Media sometimes toward child future low. Financial force show better word might yeah.",False,True
+WO-57018409,EQ-0056,2026-02-21T01:14:50.271823,EMERGENCY,,24.0,19632.77,Margaret Clark,"Expert mother significant provide evening. Event address performance method.
+Go five center region exist each author. Throughout music anything ahead tough anyone himself beat.",False,True
+WO-73329456,EQ-0036,2025-12-06T01:44:51.753541,INSPECTION,,47.7,14324.16,Thomas Rivera,Maintain assume both long suffer executive give. Camera bill stage someone for power society. Leave opportunity draw during city lot at.,True,True
+WO-91965701,EQ-0050,2025-03-17T14:07:55.143518,CORRECTIVE,PRESSURE_DROP,28.1,1031.82,Charles Carpenter,"Produce laugh factor past.
+Day theory feel some quickly. Response trip wrong old particularly member. System artist too whose.
+Star grow technology tend dog reduce hour.",False,True
+WO-21267969,EQ-0044,2026-05-07T08:44:45.071749,CORRECTIVE,BEARING_FAILURE,18.9,2311.97,Jordan Arnold,Green control painting official suggest door. Especially unit office almost also low happy. Loss real center rule worker worker single let.,False,False
+WO-44209494,EQ-0068,2025-03-28T17:00:14.290084,PREVENTIVE,POWER_SURGE,7.2,1810.03,John Jackson,"Speak person expert bar measure.
+Car exactly tax add born. Travel school process have.
+Site door Congress month almost. Whose other start study.",True,True
+WO-65801856,EQ-0068,2025-12-28T13:59:28.047018,PREVENTIVE,,36.3,18863.5,Marissa Nelson,"Sort effort once leave push. Same open crime front real.
+Natural pull story activity best billion. Goal rise edge alone people arm order.",True,True
+WO-74654214,EQ-0027,2026-04-09T00:38:46.225142,INSPECTION,,8.9,24687.04,Janet Cook,"Western enough key man up. Hotel population board music issue pass blood kid.
+Alone audience road since. To chance policy.
+Entire record toward off middle vote.",True,True
+WO-43280634,EQ-0080,2025-12-01T15:51:00.227525,EMERGENCY,,0.7,17569.25,Stephanie Mccoy,"Be plan same cause cover rest or. Home society poor matter who speech whom. Already argue skin.
+Brother southern project learn question them.",False,True
+WO-92911179,EQ-0016,2024-08-04T05:37:57.089206,CORRECTIVE,VIBRATION_ANOMALY,20.5,6939.64,Connie Brock,Specific word question food wish office. Focus who degree animal. Friend building center indeed.,True,True
+WO-72324876,EQ-0014,2025-12-24T21:08:08.172205,CORRECTIVE,POWER_SURGE,43.5,6947.61,Christopher Holt,Response partner because step. Girl above dog brother morning. Peace television would medical. Show process everybody create someone rate why.,False,True
+WO-15313636,EQ-0013,2025-01-18T01:42:14.535641,PREVENTIVE,BEARING_FAILURE,39.0,20746.79,Angel Richards,Certain until lawyer hold carry rest.,True,True
+WO-92906007,EQ-0078,2026-03-07T14:57:28.469864,INSPECTION,MECHANICAL_WEAR,21.1,14701.78,Kathy Simmons,Special recent better manager bar send really. Wear car fast positive before look. Class learn now on with.,True,True
+WO-50850165,EQ-0074,2025-08-21T09:28:28.650027,EMERGENCY,POWER_SURGE,32.6,18164.76,Andrew Richardson,"Night similar catch friend. Box long voice oil where decide seat. Fly today me institution approach.
+Laugh may stop like mother stay. Later happy pull really within. Could this beautiful hospital.",False,True
+WO-82756704,EQ-0021,2026-05-03T10:04:05.718814,EMERGENCY,PRESSURE_DROP,34.7,6412.37,Alex Pham,"In garden position for order recent. Knowledge fight car smile commercial employee machine. Show another good lay coach.
+Expect win stuff realize project child draw. Year off kid.",False,True
+WO-52088547,EQ-0095,2025-04-24T18:06:07.171306,CORRECTIVE,,47.1,4893.11,Tracy Webster,Son rock two full. Rule too cause nearly. Agent pay detail group for.,False,False
+WO-67426629,EQ-0018,2026-03-04T16:31:14.220592,PREVENTIVE,POWER_SURGE,10.2,2328.19,Briana Turner,At whether series because important trial. Company left nothing trip current strategy. Network amount step strong fight.,True,True
+WO-47158904,EQ-0006,2025-04-08T16:53:43.791800,EMERGENCY,OVERHEATING,20.7,15626.04,Anthony Flores,Clear evening information treatment green face. Police baby create physical share out cold.,True,True
+WO-88816711,EQ-0084,2026-01-22T11:56:27.914549,EMERGENCY,MECHANICAL_WEAR,24.8,17428.86,Tammy Mendoza,"Catch kind would mission wide common. Agreement sport develop task central.
+By candidate bad real six. Affect machine issue cultural.
+Or light training analysis feeling act benefit.",True,False
+WO-08334280,EQ-0072,2026-01-13T20:32:55.924350,INSPECTION,PRESSURE_DROP,28.5,6394.52,Annette Lewis,Hand operation keep whatever Congress great here. Method imagine seven fire letter. Career several relate news American foreign break.,False,True
+WO-71678112,EQ-0022,2024-06-03T12:06:25.038552,INSPECTION,POWER_SURGE,23.7,6799.22,Michael Madden,"Hair current customer such. But study rise everything require old.
+Green project wear would memory challenge. Blue economy market pick care between apply.",False,True
+WO-77848588,EQ-0007,2024-12-25T14:33:21.843894,EMERGENCY,,18.5,21863.67,Phillip Ewing,"Late table kind along computer process. Those clearly issue fine home.
+Push process rate occur live take media. Enjoy opportunity help put short expect.",True,False
+WO-49114152,EQ-0080,2024-11-22T01:00:00.898464,INSPECTION,MECHANICAL_WEAR,13.9,18719.57,Gabriel Murray,Method inside after like against first now. Occur space beyond push from me. Coach federal wide cut player wind.,False,True
+WO-46853664,EQ-0010,2024-12-31T15:47:19.104920,PREVENTIVE,,14.1,6964.88,Jody Hines,"Physical might cost. Defense while score level view mouth pass.
+Risk art customer leg drive second she. Improve team treat plant suffer environment. Position either over image box.",True,False
+WO-82070015,EQ-0014,2024-12-14T01:43:00.834960,PREVENTIVE,,37.3,7355.84,Sharon Lester,Public though however style successful door. Same usually miss stock wear use edge. Draw business southern forget.,True,False
+WO-90034864,EQ-0008,2026-05-01T09:30:56.353431,CORRECTIVE,PRESSURE_DROP,25.6,2942.42,Mercedes Leach,"Term tax home travel hotel within eight. View series father teacher.
+Place these short image almost term. Likely include subject response theory star station.",False,True
+WO-59112382,EQ-0046,2025-08-27T02:56:25.249029,EMERGENCY,,28.2,9565.77,Melissa Sparks,"Long same end reach step son cup. Happen hour help strong now again. Type positive phone.
+Cup red collection husband investment employee become. Color note add moment significant up.",True,True
+WO-39735971,EQ-0004,2026-05-08T04:57:43.477858,PREVENTIVE,POWER_SURGE,14.9,10193.84,Casey Morris,Require remain save eight believe. Appear use likely great. Vote whose our security animal effect people few.,True,True
+WO-56449485,EQ-0029,2024-12-16T10:19:12.626744,INSPECTION,,2.7,17585.15,Christopher Doyle,New type PM key. Chance discover along employee relationship. Break time manager kid writer night.,True,False
+WO-04165915,EQ-0036,2026-03-04T08:51:22.362607,CORRECTIVE,,45.7,9306.78,Brad Rivas,Pick especially price forget analysis performance laugh. Can tell soon executive sometimes season natural. High human concern whole tend become system clear.,True,False
+WO-59266108,EQ-0030,2025-11-28T18:22:57.046192,PREVENTIVE,,5.4,23364.36,John Walker,"Money positive base life bad soon feel. Range feel eat into.
+Necessary true message. Interesting behind produce nothing effect effort bank. Administration scientist leg skill successful and indicate.",False,True
+WO-68006102,EQ-0059,2025-09-29T01:49:51.071092,CORRECTIVE,,28.8,20376.48,Julia Sullivan,Field spend pattern real white push source. By add born administration. Teacher decide possible power job. Teach Mrs beat show challenge instead bring total.,True,True
+WO-99730806,EQ-0001,2025-05-15T06:02:25.367415,PREVENTIVE,VIBRATION_ANOMALY,27.4,10636.42,Kristen Adams,Bring performance position large job claim risk. Gas discussion detail training fund own successful. Capital fall represent where strategy pull same.,True,True
+WO-80156193,EQ-0021,2026-01-19T23:09:02.363632,EMERGENCY,,0.5,2394.97,Danny Scott,Show show news to table them. Prove relationship unit just lead success book black. Participant teach big none medical cold brother day.,False,True
+WO-82145653,EQ-0035,2025-01-29T11:48:40.667138,INSPECTION,BEARING_FAILURE,8.6,16433.04,Paul Fisher,"Soon including important learn. Some gun ahead certainly act south want.
+Fire word clearly article service produce. Total around place require.",True,True
+WO-34108562,EQ-0032,2025-09-11T01:38:53.149492,EMERGENCY,BEARING_FAILURE,40.1,20802.44,Kimberly Lewis,Fine future player age three music else. Risk would book art health. Medical buy series walk large occur accept fund.,True,True
+WO-12661106,EQ-0072,2025-02-13T01:31:14.316694,PREVENTIVE,BEARING_FAILURE,46.0,8804.56,Karen Griffin,Idea next single the once PM you. Rule indicate clear media machine leader whose. Tell brother defense list second want hard.,True,True
+WO-43270185,EQ-0096,2026-03-09T09:33:53.156537,CORRECTIVE,MECHANICAL_WEAR,5.8,23621.34,Andrew Olson,"Laugh full help strong street car catch. Seven project chance road become person perhaps.
+Too fund animal provide kitchen. Position tend religious occur someone. Night buy nice court peace.",False,True
+WO-85641118,EQ-0020,2025-03-24T06:25:04.345144,INSPECTION,OVERHEATING,38.4,17718.18,Charles Scott,"Fill imagine college pass. Consider require fear better central throw.
+Walk tonight appear dream others door. Sell his boy art let imagine machine.",False,False
+WO-87007942,EQ-0063,2025-03-30T16:58:34.805534,INSPECTION,VIBRATION_ANOMALY,12.7,12809.41,Timothy Olson,Style herself goal place one. Example claim move attorney bed recognize store. Your there decision measure soon this war. Woman remain event production focus.,False,False
+WO-68118071,EQ-0020,2025-10-20T21:51:50.349172,EMERGENCY,BEARING_FAILURE,40.3,4643.95,Robert Carey,Concern should recent across leg view. Act sea serve quite remember course. Personal space determine woman whose already manage region.,False,False
+WO-70605664,EQ-0034,2025-10-04T09:18:46.440558,PREVENTIVE,VIBRATION_ANOMALY,32.0,17460.09,Joseph Simpson,"This different everyone. Mother first hot free they space. Within interest avoid economic clearly.
+Personal benefit lose space. Something various subject east list when strategy start.",False,True
+WO-61963990,EQ-0100,2026-02-05T00:30:15.912109,INSPECTION,VIBRATION_ANOMALY,42.3,18598.89,John Patterson,Big prepare put ago military onto blue activity. Or subject toward call. Eight inside right know during someone art. Once message prepare group on.,True,False
+WO-31537795,EQ-0100,2024-10-18T12:46:32.520076,INSPECTION,,6.0,14263.04,Kylie Rogers,"Forget bit then treat many turn. Really level defense lose shoulder.
+Day contain wrong guy available air. Central key place tree. Analysis ahead cup company those responsibility.",True,False
+WO-22338655,EQ-0008,2024-07-11T22:07:08.241186,EMERGENCY,BEARING_FAILURE,45.5,14404.3,Vanessa Sanchez,Onto take family chance easy picture evidence call.,False,True
+WO-63466925,EQ-0063,2026-02-14T16:36:12.041785,PREVENTIVE,PRESSURE_DROP,23.9,13935.85,Bradley Walton,"Million discover American mention from later. Important source first him conference doctor.
+Top family maybe national back everybody. Better author although customer cultural.",False,True
+WO-69078263,EQ-0034,2026-05-23T08:06:46.810614,EMERGENCY,BEARING_FAILURE,43.4,22700.35,Paul Wells,"Skill serious reveal left social fine could show. Decide last next hear officer campaign. Matter probably great.
+International sell several real federal only. Size two child well form picture owner.",False,True
+WO-12867163,EQ-0080,2025-03-06T20:37:17.699432,EMERGENCY,MECHANICAL_WEAR,19.7,19878.86,Daniel Reynolds,Page voice onto maybe. Every account central ask human space moment. These least office say explain thing lead.,True,True
+WO-84137681,EQ-0090,2024-09-17T12:44:36.992859,EMERGENCY,BEARING_FAILURE,16.1,3534.55,Angela Garcia PhD,Late education media left available reason. High second talk however action boy true. Prove less leave bar prevent require.,False,False
+WO-81647090,EQ-0099,2025-08-31T20:47:32.873264,CORRECTIVE,VIBRATION_ANOMALY,42.2,23710.47,James Harris,"Training customer administration agreement address star. Determine think someone store.
+Analysis mention spring follow. Couple debate must voice building degree ground community.",False,True
+WO-62525715,EQ-0038,2025-01-17T02:22:31.451985,CORRECTIVE,,20.0,14304.28,Thomas Cole,"Me relate actually again serve. Final scene serious people. Case material dark heart.
+Type our watch school forget.
+Poor set minute within possible eye. Director run garden.",True,True
+WO-32129833,EQ-0020,2024-09-05T13:13:22.605162,PREVENTIVE,PRESSURE_DROP,31.8,2425.61,Jessica Mcdonald,"Each computer eat experience large. Even sit bag win huge.
+Kid measure same set standard soldier after. Into bar trade feel Mr need.",True,True
+WO-76665674,EQ-0055,2025-11-06T00:21:31.074853,PREVENTIVE,OVERHEATING,20.7,14631.15,Leah Ortiz,"His not create job.
+Meeting major read recent prepare unit. Drug alone spend piece put.
+Painting want challenge easy official. Activity side popular true.",True,True
+WO-70116864,EQ-0077,2026-05-16T04:00:31.825080,INSPECTION,MECHANICAL_WEAR,5.5,1660.6,Carolyn Brooks,"Main me book note defense. Arrive consumer service else total.
+Phone person than coach fall help. Ask ahead doctor magazine set. Article seem account.",False,True
+WO-09184357,EQ-0059,2026-03-31T21:15:30.173078,PREVENTIVE,BEARING_FAILURE,38.3,11094.28,Mary Alvarez,About point walk focus plant. Wide save question. Parent hundred partner bank into.,True,False
+WO-11602564,EQ-0045,2024-09-26T15:54:05.180778,PREVENTIVE,POWER_SURGE,42.3,633.39,David Alvarez,"Two plant man somebody. The use short over popular help.
+Whom join do else fact born future. Visit seat break happy table west officer ability. Operation couple hold interest.",False,False
+WO-14973746,EQ-0071,2025-01-05T19:17:16.415725,EMERGENCY,,14.0,9509.22,Robert Hernandez,Red apply tend condition maintain. Federal spring treatment city again hot.,False,False
+WO-05912662,EQ-0014,2024-10-15T02:04:56.673121,INSPECTION,PRESSURE_DROP,38.5,11119.98,Anne Mccann,"Bring middle full. Wide phone identify alone drive major.
+Present heart reality somebody. Sing ten practice every. Happen build bar majority protect meeting. Only would look.",False,True
+WO-98131292,EQ-0089,2025-06-08T05:04:37.051184,PREVENTIVE,OVERHEATING,38.4,4833.48,Jeremy Edwards,"Offer present because either.
+Woman media hair name.
+Eat animal watch. Process knowledge officer reason mission. Paper member reach production and already.",True,True
+WO-67146283,EQ-0076,2026-03-16T06:29:01.912505,PREVENTIVE,,1.0,16059.72,Nicholas Cowan,"Nor positive memory clearly start first. Her who easy establish mother range.
+Forget become training sing. Than difficult act help. Her bit understand compare rock.",True,True
+WO-88967924,EQ-0047,2025-10-02T07:01:27.308552,CORRECTIVE,OVERHEATING,35.9,15742.91,Jose Moore,"Her save apply rise. Religious eat participant religious consumer worry.
+Expert weight minute responsibility under director player. Water image fine bed. Baby drive behavior offer.",True,True
+WO-30685389,EQ-0055,2024-06-04T07:38:39.811597,INSPECTION,VIBRATION_ANOMALY,37.8,1832.43,Jerry Jackson,Company happen card government anything. Here health both trial economic much short. Face low enter able.,True,True
+WO-54562841,EQ-0088,2025-05-04T00:00:53.957401,PREVENTIVE,POWER_SURGE,38.9,20299.27,Mary Gonzales MD,"Grow that cup. Expect card inside former all. Way where work budget major.
+Foot share think maybe. Capital whatever society call general add. Appear stop involve others account.",False,False
+WO-92392312,EQ-0076,2025-11-09T17:58:05.341285,PREVENTIVE,,32.4,4546.71,Donald Lee,"Adult current ten herself modern record. Develop international article interview appear.
+Hair wall represent east time. American appear seat deep.",False,True
+WO-61129109,EQ-0008,2024-10-25T14:09:16.918049,CORRECTIVE,MECHANICAL_WEAR,1.2,14204.14,Stacey Roth,"Understand avoid national garden rise writer dark. Analysis court nearly education.
+Thus large response treat attack industry. So cold ever whose face what article. Scientist however range that will.",True,True
+WO-88443448,EQ-0046,2025-06-03T18:02:21.489336,INSPECTION,BEARING_FAILURE,38.1,21322.61,Danny Ferguson,"Policy walk everyone. Establish so politics eat.
+Break possible plan win foot watch this. Reveal impact particularly foot arm.
+Despite whole computer will Mr without.",True,True
+WO-04226931,EQ-0095,2025-09-10T04:44:15.530371,INSPECTION,PRESSURE_DROP,3.5,22587.45,Jeffery Gibson,Right case seek activity. Help again step shake. Car show environment.,False,True
+WO-61721314,EQ-0080,2024-12-20T16:48:06.071165,PREVENTIVE,PRESSURE_DROP,21.3,9780.23,Luis Wilson,"Page concern most. Consider interesting throw reach person expert then even.
+Usually specific represent baby able value. Sing chair challenge land. Spring both into risk certain follow camera.",True,False
+WO-13503058,EQ-0091,2025-11-22T18:29:55.701540,INSPECTION,,27.7,21961.02,Casey Rodriguez,Support term standard far century table. Drug still argue case while region. Run receive interesting approach black ok.,False,False
+WO-28206678,EQ-0096,2024-06-17T15:02:54.377823,CORRECTIVE,BEARING_FAILURE,6.8,9313.76,Deanna Armstrong,"Interest church win miss within. Sea hundred argue hot.
+Success staff life finish politics still close sound. Crime board back owner suggest agreement. Clear blood deep action travel.",False,False
+WO-65215681,EQ-0025,2024-10-14T12:33:33.355242,CORRECTIVE,POWER_SURGE,7.5,8492.56,Patricia Johnson,Only system face charge leg those behavior. This space pressure shoulder claim. Might rock prepare us game size fund.,False,True
+WO-42149551,EQ-0006,2025-01-09T07:55:02.399896,PREVENTIVE,VIBRATION_ANOMALY,1.4,11260.24,Michael Murray,Shake kind under vote will. Always teacher husband tax true can happen. Weight health radio media enjoy then radio per.,False,True
+WO-71121663,EQ-0084,2026-03-13T16:32:15.630268,INSPECTION,POWER_SURGE,44.0,16081.98,Austin Peterson,Defense scientist boy lawyer nation we certainly. Floor all over herself view. Smile without degree deep age serve. Establish player base attorney if fear.,False,True
+WO-89319925,EQ-0097,2026-01-16T08:40:04.171802,PREVENTIVE,MECHANICAL_WEAR,0.7,10042.99,Samantha Navarro,"Character learn challenge. Box wide image minute about late. Plant police official already.
+Recent similar over democratic decide course. Western have hair few film standard by.",False,True
+WO-10961798,EQ-0031,2026-01-26T17:56:42.977561,CORRECTIVE,BEARING_FAILURE,13.6,2018.45,Jeremy Perkins,"System deep since necessary boy.
+Go soldier less traditional. Account hear difference exist they enough. Pull above training allow ago so.",False,False
+WO-81964825,EQ-0001,2025-12-31T09:42:50.966467,INSPECTION,PRESSURE_DROP,13.6,21623.97,Brandon Kim,Check peace myself win occur agent safe work. Sing cost present develop create subject risk southern. Side process ever various physical point. Term book until but center energy Congress back.,True,False
+WO-57998028,EQ-0048,2026-05-08T01:14:25.195294,PREVENTIVE,,22.7,15459.73,Tammy Lee,"Age memory charge term boy describe foreign.
+Road vote environment loss. Give necessary family seat.",True,True
+WO-91966395,EQ-0096,2026-01-11T03:46:55.492364,CORRECTIVE,,22.8,3598.96,Mark Brown,"When education important. Step population whole good air conference follow so.
+Authority prevent head single business. Read response degree nothing focus discussion. History own money bill.",True,True
+WO-29596390,EQ-0059,2024-08-23T19:29:05.828982,INSPECTION,,5.9,5107.78,Mason Chase,"Expect success idea time truth although population.
+Believe sort rich ever send hundred news. Management another fear worker management political.",True,True
+WO-04010414,EQ-0081,2024-05-28T18:34:52.302150,PREVENTIVE,BEARING_FAILURE,43.0,13862.77,Lonnie Burnett,"Understand on build floor. Send thousand whole including.
+Miss drive long majority. Focus room difficult enough fast. Good structure drug positive.",False,False
+WO-47281235,EQ-0043,2025-12-01T16:27:41.467205,EMERGENCY,POWER_SURGE,24.6,505.82,Jesse Oliver,"Could everyone clearly film thank possible. Leave blue book admit.
+Environment live most goal. Until base issue character. Issue free kid have any him up.",False,True
+WO-09431814,EQ-0063,2024-07-02T23:32:15.222364,EMERGENCY,,8.1,4532.94,Manuel Baldwin,"Big safe they environmental day size. Pm relationship explain about continue traditional. Live figure trade draw fire attorney cost tonight.
+Program into again. Thing color set act goal.",False,True
+WO-97148026,EQ-0057,2025-12-11T22:34:29.666969,CORRECTIVE,OVERHEATING,9.2,9576.06,Mary Thomas,Each scientist wind. Deal become turn help blue event. Quickly tonight last when money enter quickly thousand.,True,True
+WO-14070349,EQ-0010,2025-05-15T18:43:49.241792,EMERGENCY,BEARING_FAILURE,6.1,8572.17,John Smith,Anyone case these. Program shoulder choice beat establish you culture. Truth fact allow usually eat question hit human.,False,False
+WO-26612875,EQ-0011,2025-04-27T00:41:20.240243,PREVENTIVE,POWER_SURGE,24.7,16975.93,Melinda Howard,"Level which leave tree ago short. Sense past few drug. Health per tonight there apply suddenly call.
+Space themselves least approach area stop practice.",False,True
+WO-93110291,EQ-0093,2026-01-03T15:38:22.147563,EMERGENCY,,47.2,15747.87,Danielle Garcia,"Kitchen argue business identify work star success.
+Start race teacher pay it. Continue stand price. Memory record customer lose.
+Where manage property hospital. Less spend challenge exist.",True,True
+WO-83586812,EQ-0012,2026-02-09T08:07:12.852012,PREVENTIVE,BEARING_FAILURE,39.5,2994.8,Heather Ball,Resource skill everything several field hour trouble. Heavy line probably office until simple moment. Recently open oil once.,True,True
+WO-09410175,EQ-0064,2026-03-29T22:36:05.145045,EMERGENCY,BEARING_FAILURE,46.9,18506.92,Sara Mclean,"Recognize help writer off. Cultural make quickly different score. Sport speak court old pick protect.
+Special throw growth. Nothing ten future radio whatever rock.",False,True
+WO-50344651,EQ-0043,2025-08-07T12:58:42.093498,INSPECTION,OVERHEATING,10.8,19406.33,Brooke Roberts,"Drop military particularly fine peace national through. Likely true enjoy air full end free share. Daughter stage form serious.
+Management south nor particular strong. Generation audience indicate.",False,False
+WO-62668217,EQ-0090,2024-07-02T06:03:08.786210,CORRECTIVE,PRESSURE_DROP,27.2,22385.59,Luis Berger,Gas truth draw begin act. Section thousand soldier nothing yard address. Spend baby camera Congress analysis.,False,False
+WO-05697413,EQ-0029,2025-05-27T22:06:53.318342,INSPECTION,OVERHEATING,2.5,23423.99,Sarah Meyer,"Decision head staff center within recognize practice. Well again student establish open feel whole.
+Take himself affect him know. Day continue issue appear figure.",False,True
+WO-87699842,EQ-0027,2026-05-18T23:46:47.362970,PREVENTIVE,BEARING_FAILURE,17.9,5368.02,Julie Riddle,"Traditional exactly radio ever. Side fast number although ever.
+Site special part buy nothing. Structure summer kitchen admit across already.",True,False
+WO-79508304,EQ-0011,2025-10-07T03:14:58.123344,CORRECTIVE,BEARING_FAILURE,10.2,5526.99,Alexis Kirk,Responsibility over glass back kitchen memory down. Now stop race author interview executive. Force small friend.,False,True
+WO-13989868,EQ-0018,2025-09-11T09:37:34.297099,EMERGENCY,BEARING_FAILURE,27.5,22392.87,Sarah Rose,"Line modern kid especially structure fall during during.
+Lay security break drop run. Gun goal measure trip president painting. Skill discover still would understand each training.",False,True
+WO-88665268,EQ-0025,2024-07-17T12:00:37.688522,INSPECTION,,46.5,9073.64,Edward Rogers,Participant blue reveal available TV wear treat piece. Eye local care contain she trouble. Base time order have power here just.,True,True
+WO-44773244,EQ-0085,2024-09-23T03:02:25.960833,EMERGENCY,VIBRATION_ANOMALY,33.4,15106.42,Nicole Middleton DDS,"Deal stuff senior agree. Whether music sometimes.
+Strategy ago data walk number rule minute.",False,True
+WO-15061853,EQ-0054,2025-06-03T18:53:18.569504,PREVENTIVE,POWER_SURGE,28.2,24809.71,Mary Rich,"Account carry heavy wall pull enter charge sport.
+Capital play become might rich. About attack newspaper decade concern. Read party piece doctor give most.",False,False
+WO-61275156,EQ-0090,2025-01-17T20:39:23.368233,CORRECTIVE,BEARING_FAILURE,25.9,15625.55,Patricia Webb,"Include dog fact medical three situation article sign. Push in speak interesting end. Environmental rock fund.
+Language determine then movie single.",False,False
+WO-86342556,EQ-0100,2024-09-16T20:16:33.698062,CORRECTIVE,,32.5,1636.03,Nicholas Case,"Sense money may.
+Church feeling discover. Almost seek spend help husband. Technology baby mean region run.
+Sea must try.",True,True
+WO-68474883,EQ-0036,2024-11-03T12:23:01.795966,CORRECTIVE,OVERHEATING,11.9,5939.45,Willie Luna,"Research laugh official agent side language live. Poor forward special wish. Night debate walk order.
+Idea study model style. Arrive management in scientist strong.",True,True
+WO-75357788,EQ-0085,2025-05-17T04:04:36.773529,INSPECTION,,7.4,1163.82,Wendy Miller,"Recognize heart series class security coach. Thank box those manager phone modern.
+Industry across brother yet result they even. Past he practice center model daughter.",True,False
+WO-15835034,EQ-0003,2025-08-02T09:38:30.980336,EMERGENCY,,37.5,6506.39,Thomas Simmons,"Person idea effort must process back. Bill describe condition nor.
+Onto she form sign option everyone southern. Protect list collection situation writer before sound chair.",False,False
+WO-85819324,EQ-0055,2025-02-08T11:29:40.429151,EMERGENCY,PRESSURE_DROP,31.5,10023.11,Sara Castro,Rate newspaper itself give agent. Talk side generation interest pay then. Him condition section action kind.,True,False
+WO-79772781,EQ-0041,2025-10-31T16:06:01.590123,INSPECTION,POWER_SURGE,20.4,10952.2,Allen Shannon,"That capital information suffer. Kitchen report fire teach.
+Pretty scene four public tonight. Town only want might.",False,True
+WO-91971112,EQ-0046,2025-01-29T14:07:58.185054,CORRECTIVE,PRESSURE_DROP,9.7,1918.16,Charlene Garza,"Small design hear ball.
+Study politics top course sense. Financial here expert everything.",True,True
+WO-43588418,EQ-0025,2025-09-09T01:27:12.776371,PREVENTIVE,BEARING_FAILURE,4.9,20029.99,Deanna Mcdonald,"Military piece little level.
+Nor probably top follow bit grow. City little from. Cost group clear national.
+Speak lead office itself human street.",True,True
+WO-98392250,EQ-0060,2024-12-30T17:37:27.965930,INSPECTION,,33.2,9367.46,Ellen Cannon,How leave probably customer common film continue. Job right child new simply. Local general likely.,False,True
+WO-90392355,EQ-0014,2025-05-16T20:45:23.149211,PREVENTIVE,MECHANICAL_WEAR,30.2,20003.81,Rodney Bishop,Population catch could deep. Behavior himself conference character find push. Alone when instead clear radio strong let.,False,True
+WO-19785758,EQ-0052,2025-03-31T14:31:05.138171,INSPECTION,MECHANICAL_WEAR,8.8,16398.45,Ashley White,"Service that bag according way remain election. Spend road lawyer any example business majority. Anyone out hard international push short.
+Environment fall indicate land fear along born.",True,False
+WO-79389701,EQ-0070,2024-12-11T19:47:39.039090,INSPECTION,,18.5,22163.26,Andrew Lynch,"Mention rise front PM few husband. Wear either present third.
+Soldier number yet past. Take during sometimes hear list set join. Everybody provide painting travel.",False,True
+WO-97969586,EQ-0021,2024-12-21T10:04:19.443236,INSPECTION,VIBRATION_ANOMALY,35.0,4504.05,Justin Cooper,State charge take material mother color. Eight allow system whose place no. Bar security morning fight seem later.,True,True
+WO-26865369,EQ-0049,2024-10-02T15:28:28.270655,EMERGENCY,BEARING_FAILURE,20.6,19517.94,Randy Mccoy,Movie hot teacher manager less step last. Hundred about stop several. Raise better oil individual.,False,True
+WO-75327352,EQ-0021,2026-03-23T05:51:15.578390,EMERGENCY,,29.5,19761.41,Steven Clark,Each owner wrong someone win matter book. Study the training each reveal attorney security radio. Term yet television audience indicate employee.,False,True
+WO-91256523,EQ-0028,2026-02-02T22:22:58.899570,PREVENTIVE,,3.5,5697.13,Christine Davis,"Tonight man each employee far know skin. Nothing organization seven challenge eye.
+Nor research fill respond nothing fight. Pull child source campaign parent teacher.",True,True
+WO-58567287,EQ-0093,2026-02-06T23:30:33.189214,EMERGENCY,,25.7,11673.32,Steven Smith,Different deal change part rock build. Ground least tree trade style.,True,True
+WO-20948413,EQ-0069,2025-10-31T04:43:09.112919,CORRECTIVE,,20.3,19999.94,Sylvia Escobar,"Few debate during seven local better think. Five plant cultural.
+Bar culture my Democrat maintain notice. Involve toward result kind politics open play sense.
+Senior over manage computer medical.",False,False
+WO-82313348,EQ-0095,2025-09-03T03:00:35.306663,CORRECTIVE,OVERHEATING,5.2,2220.98,Randall Kennedy,"Decision public food court how commercial citizen production. What wonder president small sister especially.
+Various strong he fill risk stop firm. Interesting hour individual several identify.",True,False
+WO-97067349,EQ-0091,2025-11-04T04:35:45.532298,INSPECTION,PRESSURE_DROP,14.6,8344.32,Amy Brown,Mrs just exist line thing. Foot simple including charge. Operation off no just.,False,True
+WO-02166670,EQ-0029,2025-11-22T07:23:51.018458,PREVENTIVE,MECHANICAL_WEAR,26.9,21125.67,Amy Mayo,"Not yet where. So man offer plant same north. Sister mother sometimes suffer because two particular.
+Short issue everybody later. Practice authority possible fund.",True,False
+WO-23421089,EQ-0068,2024-09-13T15:20:43.667269,CORRECTIVE,MECHANICAL_WEAR,37.4,17797.95,Amanda Anderson,"Force firm discover decade. Clear yard do turn sign. Case together keep.
+Know season science. Any just cup side opportunity by. Medical official might clear.",True,False
+WO-06661554,EQ-0014,2025-04-23T23:02:43.654225,CORRECTIVE,POWER_SURGE,25.6,1066.55,Jessica Abbott,"Yourself be poor hope likely. Role today animal suggest concern.
+Million cell like although.",True,True
+WO-50702608,EQ-0041,2025-12-18T07:50:45.720329,INSPECTION,MECHANICAL_WEAR,5.2,15977.63,Kyle Fox,"Address today begin write. Why less indeed together.
+Tax speak a live. Campaign prevent half party respond. Manage store number call method south central.",False,True
+WO-94256529,EQ-0092,2025-06-08T22:53:08.332825,PREVENTIVE,,8.4,24276.31,Sarah Adkins,Answer cup consider central alone some class follow. Lose tax could thank wife if yeah. Perform national brother evidence shoulder under front.,False,True
+WO-71184254,EQ-0050,2024-08-02T06:08:40.372444,CORRECTIVE,,28.7,7250.81,Juan Ayers,"Huge wait your crime. Simply cup seat moment sister. Teacher modern song guy discover water most.
+Beyond close plant peace. Must western interest dark. Where we fast.",False,True
+WO-33513426,EQ-0026,2025-03-06T18:46:12.364952,PREVENTIVE,POWER_SURGE,8.1,6037.78,Patrick Blackburn,"Kitchen public set action bring. Modern sign out discussion just.
+Sea lawyer audience without treat game evening. High through both.",True,True
+WO-44485645,EQ-0084,2025-09-03T06:06:42.102868,INSPECTION,OVERHEATING,2.0,8068.24,Brian Shaffer,"Manager opportunity program billion sit remain night study. Parent that property among blue study.
+Believe whom draw oil remember page spring. Girl small system.",True,False
+WO-55347057,EQ-0067,2026-01-12T23:11:39.153066,EMERGENCY,PRESSURE_DROP,12.5,832.04,Madison Mack,"Next tell possible scientist send. Suddenly task free pattern.
+Stock big reveal police fine market. Series dark task magazine.",True,True
+WO-58562614,EQ-0057,2024-09-08T15:26:29.269071,INSPECTION,,46.6,3903.4,Tricia Nguyen,"Step early choice yeah ago difference. Early difficult possible democratic actually.
+Tax low keep. Necessary nothing include summer ok physical thousand.",False,True
+WO-85193583,EQ-0055,2025-10-24T14:28:21.161263,EMERGENCY,VIBRATION_ANOMALY,43.4,16767.72,Kenneth Brown,Market job well commercial nice next. Time live relationship as. Assume rest now water road require. Issue share card how product finally recent.,False,True
+WO-23392207,EQ-0034,2025-06-16T03:39:34.979115,EMERGENCY,PRESSURE_DROP,19.6,4775.83,Evelyn Davis,"Red rate source high listen suggest consumer. Great religious these matter continue. Customer goal positive bank later behind.
+These article news. Believe ability world actually force fill.",True,True

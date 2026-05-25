@@ -1,0 +1,69 @@
+{
+  "type": "struct",
+  "fields": [
+    {
+      "name": "equipment_id",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Unique equipment identifier"
+      }
+    },
+    {
+      "name": "sensor_type",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Type of sensor: temperature, vibration, pressure, power_consumption"
+      }
+    },
+    {
+      "name": "timestamp",
+      "type": "timestamp",
+      "nullable": false,
+      "metadata": {
+        "description": "Sensor reading timestamp (ISO 8601 format)"
+      }
+    },
+    {
+      "name": "value",
+      "type": "double",
+      "nullable": true,
+      "metadata": {
+        "description": "Sensor reading value (null if sensor failed)"
+      }
+    },
+    {
+      "name": "unit",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Measurement unit"
+      }
+    },
+    {
+      "name": "sensor_id",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Unique sensor identifier"
+      }
+    },
+    {
+      "name": "data_source",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Source system (e.g., SCADA_v2.3)"
+      }
+    },
+    {
+      "name": "quality_flag",
+      "type": "string",
+      "nullable": false,
+      "metadata": {
+        "description": "Data quality indicator: GOOD, MISSING, INVALID, OUTLIER, CLOCK_DRIFT"
+      }
+    }
+  ]
+}
